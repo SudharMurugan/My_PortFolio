@@ -159,6 +159,7 @@ body::before {
 }
 
 .about-text {
+    margin:auto;
     flex: 1;
     max-width: 600px;
     text-align: left;
