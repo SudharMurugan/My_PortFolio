@@ -130,6 +130,7 @@ body::before {
 
 /* About Section */
 .about {
+    margin:auto;
     text-align: center;
     padding: 80px 20px;
      color: #fff;
@@ -150,7 +151,7 @@ body::before {
 }
 
 .about-content {
-    margin:auto;
+    margin-left:20px;
     display: flex;
     justify-content: center;
     align-items: center;
