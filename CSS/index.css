@@ -150,6 +150,7 @@ body::before {
 }
 
 .about-content {
+    margin:auto;
     display: flex;
     justify-content: center;
     align-items: center;
